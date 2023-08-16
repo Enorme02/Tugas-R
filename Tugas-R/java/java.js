@@ -13,5 +13,5 @@ reset.addEventListener('click', function (){
     output.value = ''
 })
 keliling.addEventListener('click', function (){
-    
+    console.log = (keliling)
 })
